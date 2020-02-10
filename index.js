@@ -7,7 +7,7 @@ const list = [
     title: 'React',
     url: 'https://facebook.githib.io/react/',
     author: 'Jordan Walke',
-    num_comments: 3,
+    num_comments: 23,
     points: 4,
     objectID: 0
   },
